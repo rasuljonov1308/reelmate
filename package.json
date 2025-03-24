@@ -1,0 +1,24 @@
+{
+  "name": "reelmate",
+  "version": "1.0.0",
+  "description": "\"# reelmate\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasuljonov1308/reelmate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasuljonov1308/reelmate/issues"
+  },
+  "homepage": "https://github.com/rasuljonov1308/reelmate#readme"
+}
